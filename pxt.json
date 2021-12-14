@@ -2,7 +2,9 @@
     "name": "user-input",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "sevenseg": "*",
+        "animation": "*"
     },
     "files": [
         "main.ts",
